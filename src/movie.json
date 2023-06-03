@@ -1,0 +1,62 @@
+[
+  {
+    "imdbId": "tt1375666",
+    "title": "Inception",
+    "year": 2010,
+    "poster": "https://via.placeholder.com/300.png?text=Inception"
+  },
+  {
+    "imdbId": "tt0816692",
+    "title": "Interstellar",
+    "year": 2014,
+    "poster": "https://via.placeholder.com/300.png?text=Interstellar"
+  },
+  {
+    "imdbId": "tt4154756",
+    "title": "Avengers: Infinity War",
+    "year": 2018,
+    "poster": "https://via.placeholder.com/300.png?text=Infinity+War"
+  },
+  {
+    "imdbId": "tt0120737",
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": 2001,
+    "poster": "https://via.placeholder.com/300.png?text=LOTR+Fellowship"
+  },
+  {
+    "imdbId": "tt0468569",
+    "title": "The Dark Knight",
+    "year": 2008,
+    "poster": "https://via.placeholder.com/300.png?text=The+Dark+Knight"
+  },
+  {
+    "imdbId": "tt0137523",
+    "title": "Fight Club",
+    "year": 1999,
+    "poster": "https://via.placeholder.com/300.png?text=Fight+Club"
+  },
+  {
+    "imdbId": "tt0499549",
+    "title": "Avatar",
+    "year": 2009,
+    "poster": "https://via.placeholder.com/300.png?text=Avatar"
+  },
+  {
+    "imdbId": "tt0109830",
+    "title": "Forrest Gump",
+    "year": 1994,
+    "poster": "https://via.placeholder.com/300.png?text=Forrest+Gump"
+  },
+  {
+    "imdbId": "tt0816692",
+    "title": "Interstellar",
+    "year": 2014,
+    "poster": "https://via.placeholder.com/300.png?text=Interstellar"
+  },
+  {
+    "imdbId": "tt1375666",
+    "title": "Inception",
+    "year": 2010,
+    "poster": "https://via.placeholder.com/300.png?text=Inception"
+  }
+]
